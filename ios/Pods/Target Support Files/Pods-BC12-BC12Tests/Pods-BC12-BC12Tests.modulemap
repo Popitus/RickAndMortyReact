@@ -1,0 +1,6 @@
+module Pods_BC12_BC12Tests {
+  umbrella header "Pods-BC12-BC12Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
